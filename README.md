@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MichailDeWet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me michaildewet9@gmail.com
+```javascript
+// TODO: fix up github profile page
+// inlcude this email address 'michaildewet9@gmail.com'
+// make one of those neat code block things to prove i can code .
+// console.log('here', readMe)
+```
 
 <!---
 MichailDeWet/MichailDeWet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
